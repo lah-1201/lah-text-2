@@ -1,0 +1,27 @@
+{
+    "name": "无标题",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "行星": "github:lah-1201/lah-tutorial-tool#e4de3834a096a6d8872c4bf62ac93ac7c783509e"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "text.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "6.0.25",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}

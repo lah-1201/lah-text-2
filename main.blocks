@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="b8B!#FLd@-J3JkBFJ4p(" x="0" y="0"><statement name="HANDLER"><block type="PlanetX_AILens_initModule" id="EPrq;$_DR)=_lQHXyZcg"></block></statement></block><block type="device_forever" id="3f(a0e1fM%gz%^uo/oei" x="205" y="0"></block></xml>
